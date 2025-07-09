@@ -20,9 +20,4 @@ This project implements an AI-driven inventory management system aimed at reduci
 | Waste Analyzer        | Detects deadstock and expiry trends |
 | Frontend Dashboard    | Shows insights, alerts, and historical trends |
 
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-org/ai-inventory-waste.git
-cd ai-inventory-waste
-pip install -r requirements.txt
+LIVE DEMO https://youtu.be/oFPX5uIqdlE
